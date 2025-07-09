@@ -60,11 +60,6 @@ It contains features such as customer demographics, subscription services, tenur
 └── README.md
 ```
 
-## 👨‍💻 Author
-
-**Sriman Poloju**  
-A passionate data analyst and aspiring machine learning engineer.
-
 ## 📝 License
 
 This project is open-source and free to use for educational and research purposes.
