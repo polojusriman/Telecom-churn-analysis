@@ -1,3 +1,4 @@
+
 # 📊 Telecom Customer Churn Analysis
 
 This project analyzes customer churn in a telecom company using Python, data visualization, and machine learning models. The goal is to identify the factors that influence customer churn and build models to predict it accurately.
@@ -52,11 +53,12 @@ It contains features such as customer demographics, subscription services, tenur
 
 ## 📂 Repository Structure
 
+```
 📁 telecom-churn-analysis/
-   - Telecom_Churn_Analysis.ipynb
-   - WA_Fn-UseC_-Telco-Customer-Churn.csv
-   - README.md
-
+├── Telecom_Churn_Analysis.ipynb
+├── WA_Fn-UseC_-Telco-Customer-Churn.csv
+└── README.md
+```
 
 ## 👨‍💻 Author
 
