@@ -53,9 +53,9 @@ It contains features such as customer demographics, subscription services, tenur
 ## 📂 Repository Structure
 
 📁 telecom-churn-analysis/
-├── Telecom_Churn_Analysis.ipynb
-├── WA_Fn-UseC_-Telco-Customer-Churn.csv
-└── README.md
+   - Telecom_Churn_Analysis.ipynb
+   - WA_Fn-UseC_-Telco-Customer-Churn.csv
+   - README.md
 
 
 ## 👨‍💻 Author
